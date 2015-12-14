@@ -1,0 +1,2 @@
+# VelocimetroDigital
+Swift - Enum - Struct
